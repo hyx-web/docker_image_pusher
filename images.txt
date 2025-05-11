@@ -1,2 +1,6 @@
 nginx
+ubuntu:22.04
 ubuntu:24.10
+centos:7
+centos:8
+python
